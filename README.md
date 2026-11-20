@@ -31,7 +31,7 @@
 | 06 | [业务规则与流程](docs/06-business-rules-and-workflows.md) | 状态机、权限、异常与争议处理 | 待评审 |
 | 07 | [数据架构](docs/07-data-architecture.md) | 领域模型、实体关系、数据治理 | 待评审 |
 | 08 | [技术架构](docs/08-technical-architecture.md) | 应用架构、基础设施、安全与运维 | 待评审 |
-| 09 | [商业模式与财务测算](docs/09-business-model-and-financial-estimation.md) | 收入、成本、单位经济、盈亏平衡 | 待验证 |
+| 09 | [商业模式与财务测算](docs/09-business-model-and-financial-estimation.md) | 收入、成本、单位经济、盈亏平衡 | 待验证 |\n| 10 | [MVP实施路线图](docs/10-mvp-implementation-roadmap.md) | 阶段计划、交付物、验收标准与发布门槛 | 建议稿 |
 
 ## 实施阶段
 
@@ -74,4 +74,4 @@
 
 | 日期 | 变更 |
 |---|---|
-| 2026-11-20 | 建立项目文档总纲与导航，并核验九份规划文档均存在。 |
+| 2026-11-20 | 建立项目文档总纲与导航，并核验九份规划文档均存在。 |\n| 2026-11-20 | 增加MVP实施路线图；明确阶段门槛、交付物与验收标准。 |
