@@ -19,19 +19,19 @@
 
 ## 文档导航
 
-以下为项目规划文档目录。每份文档应在内容完成并经过核验后再标记为“已确认”。
+九份规划文档均已在仓库中核验存在；其业务内容、法规依据和具体方案仍需项目评审，不能因文件存在就视为最终批准。
 
 | 编号 | 文档 | 主要内容 | 状态 |
 |---|---|---|---|
-| 01 | [商业定位](docs/01-business-positioning.md) | 平台定位、市场边界、阶段策略 | 待核验 |
-| 02 | [商业模式与法律主体关系](docs/02-business-model-and-legal-relationships.md) | 平台、需求方、服务商及合同关系 | 待核验 |
-| 03 | [交易模型](docs/03-transaction-models.md) | 住宅服务订单、商业工程项目 | 待核验 |
-| 04 | [支付与结算合规](docs/04-payment-and-settlement-compliance.md) | 收款、退款、分账、结算、对账 | 待核验 |
-| 05 | [产品架构](docs/05-product-architecture.md) | 多角色产品端、功能边界、MVP | 待核验 |
-| 06 | [业务规则与流程](docs/06-business-rules-and-workflows.md) | 状态机、权限、异常与争议处理 | 待核验 |
-| 07 | [数据架构](docs/07-data-architecture.md) | 领域模型、实体关系、数据治理 | 待核验 |
-| 08 | [技术架构](docs/08-technical-architecture.md) | 应用架构、基础设施、安全与运维 | 待核验 |
-| 09 | [商业模式与财务测算](docs/09-business-model-and-financial-estimation.md) | 收入、成本、单位经济、盈亏平衡 | 待核验 |
+| 01 | [商业定位](docs/01-business-positioning.md) | 平台定位、市场边界、阶段策略 | 待评审 |
+| 02 | [商业模式与法律主体关系](docs/02-business-model-and-legal-relationships.md) | 平台、需求方、服务商及合同关系 | 待评审 |
+| 03 | [交易模型](docs/03-transaction-models.md) | 住宅服务订单、商业工程项目 | 待评审 |
+| 04 | [支付与结算合规](docs/04-payment-and-settlement-compliance.md) | 收款、退款、分账、结算、对账 | 待专业确认 |
+| 05 | [产品架构](docs/05-product-architecture.md) | 多角色产品端、功能边界、MVP | 待评审 |
+| 06 | [业务规则与流程](docs/06-business-rules-and-workflows.md) | 状态机、权限、异常与争议处理 | 待评审 |
+| 07 | [数据架构](docs/07-data-architecture.md) | 领域模型、实体关系、数据治理 | 待评审 |
+| 08 | [技术架构](docs/08-technical-architecture.md) | 应用架构、基础设施、安全与运维 | 待评审 |
+| 09 | [商业模式与财务测算](docs/09-business-model-and-financial-estimation.md) | 收入、成本、单位经济、盈亏平衡 | 待验证 |
 
 ## 实施阶段
 
@@ -74,4 +74,4 @@
 
 | 日期 | 变更 |
 |---|---|
-| 2026-11-20 | 建立项目文档总纲与导航；九份规划文档的仓库落地状态待逐份核验。 |
+| 2026-11-20 | 建立项目文档总纲与导航，并核验九份规划文档均存在。 |
